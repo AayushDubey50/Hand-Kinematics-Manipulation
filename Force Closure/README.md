@@ -23,4 +23,5 @@ Grasping an object requires two constraints: resist external forces, and dextrou
 
 
 ### Convex Optimization
+One way of calculating the forces required can be done using convex-optimization.
 
