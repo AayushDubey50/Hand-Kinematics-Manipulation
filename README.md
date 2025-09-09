@@ -3,6 +3,8 @@ Mathematica simulation of a prosthetic hand using kinematics and grasp planning 
 
 This project emulates the motions and forces needed for a 3D CAD model of a prosthetic hand to grab and move an object.
 
+Main source: https://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf
+
 ## Flow of this project
 
 1. Configure position + orientation of each joint
