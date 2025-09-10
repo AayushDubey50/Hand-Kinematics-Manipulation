@@ -5,7 +5,7 @@ This project emulates the motions and forces needed for a 3D CAD model of a pros
 
 Main source: https://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf
 
-## Flow of this project
+## Intended Flow
 
 1. Configure position + orientation of each joint
 
